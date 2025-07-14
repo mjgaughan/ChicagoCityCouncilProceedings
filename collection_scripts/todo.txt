@@ -1,0 +1,4 @@
+TODO for helpful scripts 
+[ ] automate the collection and organization of proceedings PDFs from https://www.chicityclerk.com/legislation-records/journals-and-reports/journals-proceedings
+[ ] organize by YYYY-MM-DD
+[ ] standardize markdown file structure 
