@@ -1,0 +1,40 @@
+(In the order of appearance on the City Clerk's office.)
+
+Right now, I am currently working on:
+  6 - [ ] 2025
+  7         - [x] 2025 01 15 Journal of the Proceedings
+  8         - [x] 2025 02 19 Journal of the Proceedings
+  9         - [ ] 2025 02 26 Journal of the Proceedings 0
+ 10         - [ ] 2025 03 12 Journal of the Proceedings
+ 11         - [x] 2025 04 07 Journal of the Proceedings
+ 12         - [ ] 2025 04 26 Journal of the Proceedings
+ 13         - [x] 2025 05 07 Journal of the Proceedings
+ 14         - [ ] 2025 05 21 Journal of the Proceedings Vol. I
+ 15         - [ ] 2025 05 21 Journal of the Proceedings Vol. II
+ 16 - [ ] 2024
+            - [ ] 2024_12_16 Journal of the Proceedings.pdf
+            - [ ] 2024_12_13 Journal of the Proceedings.pdf
+            - [ ] 2024_12_11 Journal of the Proceedings.pdf
+            - [ ] 2024_12_02 Journal of the Proceedings.pdf
+            - [ ] 2024_11_14 Special Meeting.pdf
+            - [ ] 2024_10_30 Journal of the Proceedings.pdf
+            - [ ] 2024_10_22 Journal of the Proceedings.pdf
+            - [ ] 2024_10_09 Journal of the Proceedings Vo. I.pdf
+            - [ ] 2024_10_09 Journal of the Proceedings Vol. II.pdf
+            - [ ] 2024_09_18 Journal of the Proceedings Vol. II.pdf
+            - [ ] 2024_09_18 Journal of the Proceedings Vol. I.pdf
+            - [ ] 2024_7_17 Journal of the Proceedings Vol. II.pdf
+            - [ ] 2024_7_17 Journal of the Proceedings Vol. I.pdf
+            - [ ] 6/12/2024
+            - [ ] 5/22/2024
+            - [ ] 4/19/2024
+            - [ ] 4/17/2024
+            - [ ] 4/1/2024 - Special Meeting
+            - [ ] 3/20/2024
+            - [ ] 2/21/2024
+            - [ ] 2/15/2024
+            - [ ] 2/15/2024 -Special Meeting
+            - [ ] 1/31/2024
+            - [ ] 1/24/2024
+            
+
